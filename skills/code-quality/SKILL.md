@@ -1,6 +1,6 @@
 ---
-name: improving-python-code-quality
-description: Improves Python library code quality through ruff linting, mypy type checking, Pythonic idioms, and refactoring. Use when reviewing code for quality issues, adding type hints, configuring static analysis tools, or refactoring Python library code.
+name: py-code-quality
+description: "[Python] Improve code quality through ruff linting, mypy type checking, Pythonic idioms, and refactoring. Use when reviewing code for quality issues, adding type hints, or configuring static analysis tools."
 ---
 
 # Python Code Quality
